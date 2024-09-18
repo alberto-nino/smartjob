@@ -46,8 +46,7 @@ _To run the unit tests go to the paths ..\test and execute each test that is nee
 
 
 ```
-TransactionControllerTest
-TransactionServiceImplTest
+No fueron realizados
 ```
 
 ### Documentation 📋
